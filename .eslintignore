@@ -1,0 +1,6 @@
+build/*.js
+config/*.js
+node_modules
+.eslintrc.js
+static
+src/assets/lib/ionic/*.js
